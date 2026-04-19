@@ -250,7 +250,7 @@ ppm finalize <project_path>
 **Step 7.3** — Export PPTX:
 ```bash
 ppm export <project_path> -s final
-# Output: exports/<project_name>_<timestamp>.pptx
+# Output: <source_file_dir>/<project_name>_<timestamp>.pptx
 ```
 
 > **NEVER** use `cp` as a substitute for finalize.
