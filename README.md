@@ -27,4 +27,4 @@ ppm skill install --skill-dir /path/to/ppt-master-skill --target-dir /your/proje
 
 ## Related
 
-- [pptmaster-cli](https://github.com/user/ppt-master) — The core engine (`ppm` CLI, converters, exporters)
+- [ppt-master-cli](https://github.com/user/ppt-master) — The core engine (`ppm` CLI, converters, exporters)

@@ -42,7 +42,7 @@ description: >
 
 ## CLI Commands
 
-This skill uses the `ppm` CLI (installed via `pip install pptmaster-cli`).
+This skill uses the `ppm` CLI (installed via `pip install ppt-master-cli`).
 
 | Command | Purpose |
 |---------|---------|
